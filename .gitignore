@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# File history runtime (dibuat otomatis oleh aplikasi)
+history.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Testing / coverage
+.coverage
+htmlcov/
+.pytest_cache/
